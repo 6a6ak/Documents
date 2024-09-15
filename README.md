@@ -1,3 +1,5 @@
+[![wakatime](https://wakatime.com/badge/user/018b8140-c729-4ea3-8b40-6ade5ff09f83/project/018c6008-4110-4d7b-aebf-ba5b92f3e664.svg)](https://wakatime.com/badge/user/018b8140-c729-4ea3-8b40-6ade5ff09f83/project/018c6008-4110-4d7b-aebf-ba5b92f3e664)
+
 <pre>
 │
 ├───AI
